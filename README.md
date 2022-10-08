@@ -13,8 +13,6 @@ An enthusiastic Coder , learning Web Development and exploring ML
 
 - 🔭 I’m currently **a Computer Science Undergrad student**
 
-- 🌱 I’m currently learning **Web Development**
-
 - 👨‍💻 All of my projects are available at https://github.com/dasrahul505
 
 - 📫 You can reach me at **dasrahulofficial505@gmail.com**
