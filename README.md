@@ -39,7 +39,8 @@ An enthusiastic Coder , learning Web Development and exploring ML
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.audacityteam.org" target="_blank"> <img src="https://thumbnail.imgbin.com/11/13/7/imgbin-audacity-computer-icons-audio-editing-software-computer-software-others-8dkzLjgkwCCECtM9i1z1kxNSE_t.jpg" alt="audacity" width="40" height="40"/> </a>
+<a href="https://www.audacityteam.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/240px-Audacity_Logo_nofilter.svg.png" alt="audacity" width="40" height="40"/> </a>
+<a href="https://www.canva.com/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="40" height="40"/> </a>
 </p>
 <!---
 dasrahul505/dasrahul505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
