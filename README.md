@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Rahul Das
+<h1>👋 Hi, I’m Rahul! </h1>
+Naam to suna hi hoga😂
+<h3 align="center"> An enthusiastic Coder , learning Web Developer and exploring ML</h3>
+<p align="center"> <img src="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" alt="dasrahul505" /> </p>
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me ...https://www.linkedin.com/in/dasrahul505/
