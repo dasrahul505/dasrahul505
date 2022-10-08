@@ -42,6 +42,11 @@ An enthusiastic Coder , learning Web Development and exploring ML
 <a href="https://www.audacityteam.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Audacity_Logo_nofilter.svg/240px-Audacity_Logo_nofilter.svg.png" alt="audacity" width="40" height="40"/> </a>
 <a href="https://www.canva.com/" target="_blank"> <img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="40" height="40"/> </a>
 </p>
+
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasrahul505&show_icons=true&locale=en" alt="dasrahul505" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasrahul505&" alt="dasrahul505" /></p>
+<p ><img align="center" src="https://activity-graph.herokuapp.com/graph?username=dasrahul505&bg_color=03111c&color=4c9e95&line=8c00ff&point=3c9fdd&area=true&hide_border=true" alt="dasrahul505" /></p>
+
 <!---
 dasrahul505/dasrahul505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
