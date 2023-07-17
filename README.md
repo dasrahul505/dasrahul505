@@ -24,7 +24,7 @@ An enthusiastic Coder , learning Web Development and exploring ML
 <a href="https://www.linkedin.com/in/dasrahul505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rahul Das" height="30" width="40" /></a>
 <a href="https://leetcode.com/dasrahul505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subhradeepsamanta2002" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dasrahulrtwso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="subhradeep samanta" height="30" width="40" /></a>
-<a href="https://www.instagram.com/dasrahul505/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" alt="dasrahul505" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_stfu._rahul/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-png-instagram-logo-camel-productions-website-25.png" alt="dasrahul505" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
