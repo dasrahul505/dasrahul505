@@ -2,7 +2,7 @@
 Naam to suna hi hoga😂
 
 <h3 align="center"> 
-An enthusiastic Coder , learning Web Development and exploring ML
+An enthusiastic Coder , learning Web Development and exploring life
 </h3>
 
 <h2 align = "center">
